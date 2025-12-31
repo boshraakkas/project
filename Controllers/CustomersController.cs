@@ -23,6 +23,8 @@ namespace Assignment2.Controllers
 
         // GET: api/customers
         [HttpGet]
+        // GET → بدون Token
+        [AllowAnonymous]
         public IActionResult GetAll()
         {
             var customers = _context.Customers.ToList();
@@ -41,6 +43,8 @@ namespace Assignment2.Controllers
         // POST: api/customers
         [HttpPost]
         [Authorize]
+        // POST → Token مطلوب
+       
         public IActionResult Create(CustomerCreateDto dto)
         {
             var customer = _mapper.Map<Customer>(dto);

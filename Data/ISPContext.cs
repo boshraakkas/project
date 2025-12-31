@@ -16,6 +16,8 @@ namespace Assignment2.Data
         public DbSet<Ticket> Tickets => Set<Ticket>();
         public DbSet<Bill> Bills => Set<Bill>();
         public DbSet<Payment> Payments => Set<Payment>();
+        public DbSet<User> Users => Set<User>();
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
