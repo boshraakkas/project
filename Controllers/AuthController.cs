@@ -39,17 +39,17 @@ namespace Assignment2.Controllers
         };
 
             var key = new SymmetricSecurityKey(
-                Encoding.UTF8.GetBytes(_config["Jwt:Key"])
+                Encoding.UTF8.GetBytes(_config["AuthSettings:JwtKey"])
             );
 
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(
-                issuer: _config["Jwt:Issuer"],
-                audience: _config["Jwt:Audience"],
+                issuer: _config["AuthSettings:Issuer"],
+                audience: _config["AuthSettings:Audience"],
                 claims: claims,
                 expires: DateTime.Now.AddMinutes(
-                    Convert.ToDouble(_config["Jwt:DurationInMinutes"])
+                    Convert.ToDouble(_config["AuthSettings:DurationInMinutes"])
                 ),
                 signingCredentials: creds
             );

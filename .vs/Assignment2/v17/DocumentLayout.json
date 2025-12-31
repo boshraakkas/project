@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "D:\\Assignment2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\logs\\log-20251231.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:logs\\log-20251231.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\assignment2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:assignment2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\migrations\\20251231162427_userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:migrations\\20251231162427_userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\data\\ispcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:data\\ispcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\assignment2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:assignment2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\migrations\\20251231162427_userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:migrations\\20251231162427_userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\data\\ispcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:data\\ispcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:dtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:dtos\\customercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|d:\\assignment2\\dtos\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18169B79-B160-435A-AAD0-6731F53A4D93}|Assignment2.csproj|solutionrelative:dtos\\customerreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -182,7 +186,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -190,72 +194,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Assignment2\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Assignment2\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwB8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T16:17:38.084Z",
+              "DocumentIndex": 0,
+              "Title": "log-20251231.txt",
+              "DocumentMoniker": "D:\\Assignment2\\Logs\\log-20251231.txt",
+              "RelativeDocumentMoniker": "Logs\\log-20251231.txt",
+              "ToolTip": "D:\\Assignment2\\Logs\\log-20251231.txt",
+              "RelativeToolTip": "Logs\\log-20251231.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-31T17:33:20.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\Assignment2\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
-              "ToolTip": "D:\\Assignment2\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "DTOs\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T16:15:34.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Assignment2\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\Assignment2\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T16:15:07.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PaymentsController.cs",
-              "DocumentMoniker": "D:\\Assignment2\\Controllers\\PaymentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
-              "ToolTip": "D:\\Assignment2\\Controllers\\PaymentsController.cs",
-              "RelativeToolTip": "Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T16:06:20.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Assignment2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Assignment2\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-30T20:35:54.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:35:54.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Assignment2.http",
               "DocumentMoniker": "D:\\Assignment2\\Assignment2.http",
               "RelativeDocumentMoniker": "Assignment2.http",
@@ -263,29 +227,96 @@
               "RelativeToolTip": "Assignment2.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-12-30T20:48:57.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:48:57.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "D:\\Assignment2\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
               "ToolTip": "D:\\Assignment2\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "Controllers\\CustomersController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAzwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T15:58:19.937Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:37:43.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Assignment2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Assignment2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:17:38.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerCreateDto.cs",
+              "DocumentMoniker": "D:\\Assignment2\\DTOs\\CustomerCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CustomerCreateDto.cs",
+              "ToolTip": "D:\\Assignment2\\DTOs\\CustomerCreateDto.cs",
+              "RelativeToolTip": "DTOs\\CustomerCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:43:20.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\Assignment2\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\Assignment2\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:06:20.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Assignment2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Assignment2\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:15:07.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Assignment2\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Assignment2\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:15:34.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20251231162427_userLogin.cs",
               "DocumentMoniker": "D:\\Assignment2\\Migrations\\20251231162427_userLogin.cs",
               "RelativeDocumentMoniker": "Migrations\\20251231162427_userLogin.cs",
@@ -293,12 +324,11 @@
               "RelativeToolTip": "Migrations\\20251231162427_userLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T16:24:28.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T16:24:28.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "TicketsController.cs",
               "DocumentMoniker": "D:\\Assignment2\\Controllers\\TicketsController.cs",
               "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
@@ -306,12 +336,11 @@
               "RelativeToolTip": "Controllers\\TicketsController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAYwDQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T16:04:49.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T16:04:49.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "SubscriptionsController.cs",
               "DocumentMoniker": "D:\\Assignment2\\Controllers\\SubscriptionsController.cs",
               "RelativeDocumentMoniker": "Controllers\\SubscriptionsController.cs",
@@ -319,12 +348,11 @@
               "RelativeToolTip": "Controllers\\SubscriptionsController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAzwDIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T16:04:15.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T16:04:15.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ISPContext.cs",
               "DocumentMoniker": "D:\\Assignment2\\Data\\ISPContext.cs",
               "RelativeDocumentMoniker": "Data\\ISPContext.cs",
@@ -332,12 +360,11 @@
               "RelativeToolTip": "Data\\ISPContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:25:58.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:25:58.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "BillsController.cs",
               "DocumentMoniker": "D:\\Assignment2\\Controllers\\BillsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BillsController.cs",
@@ -345,25 +372,11 @@
               "RelativeToolTip": "Controllers\\BillsController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T16:05:24.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T16:05:24.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Assignment2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Assignment2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAASwCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:37:43.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ServicePlansController.cs",
               "DocumentMoniker": "D:\\Assignment2\\Controllers\\ServicePlansController.cs",
               "RelativeDocumentMoniker": "Controllers\\ServicePlansController.cs",
@@ -371,12 +384,11 @@
               "RelativeToolTip": "Controllers\\ServicePlansController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:59:29.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:59:29.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "BillCreateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\BillCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BillCreateDto.cs",
@@ -384,12 +396,11 @@
               "RelativeToolTip": "DTOs\\BillCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:52:04.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:52:04.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\Assignment2\\Profiles\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Profiles\\MappingProfile.cs",
@@ -397,12 +408,11 @@
               "RelativeToolTip": "Profiles\\MappingProfile.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwCMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:50:42.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:50:42.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "PaymentCreateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\PaymentCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\PaymentCreateDto.cs",
@@ -410,12 +420,11 @@
               "RelativeToolTip": "DTOs\\PaymentCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:49:34.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:49:34.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "PaymentReadDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\PaymentReadDto.cs",
               "RelativeDocumentMoniker": "DTOs\\PaymentReadDto.cs",
@@ -423,12 +432,11 @@
               "RelativeToolTip": "DTOs\\PaymentReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:49:15.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:49:15.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "BillUpdateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\BillUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BillUpdateDto.cs",
@@ -436,12 +444,11 @@
               "RelativeToolTip": "DTOs\\BillUpdateDto.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:48:51.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:48:51.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "BillReadDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\BillReadDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BillReadDto.cs",
@@ -449,12 +456,11 @@
               "RelativeToolTip": "DTOs\\BillReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:48:17.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:48:17.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "TicketUpdateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\TicketUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TicketUpdateDto.cs",
@@ -462,12 +468,11 @@
               "RelativeToolTip": "DTOs\\TicketUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:47:51.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:47:51.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "TicketCreateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\TicketCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TicketCreateDto.cs",
@@ -475,12 +480,11 @@
               "RelativeToolTip": "DTOs\\TicketCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:47:31.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:47:31.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "TicketReadDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\TicketReadDto.cs",
               "RelativeDocumentMoniker": "DTOs\\TicketReadDto.cs",
@@ -488,12 +492,11 @@
               "RelativeToolTip": "DTOs\\TicketReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:47:02.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:47:02.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "SubscriptionUpdateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\SubscriptionUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\SubscriptionUpdateDto.cs",
@@ -501,12 +504,11 @@
               "RelativeToolTip": "DTOs\\SubscriptionUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:46:43.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:46:43.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "SubscriptionCreateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\SubscriptionCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\SubscriptionCreateDto.cs",
@@ -514,12 +516,11 @@
               "RelativeToolTip": "DTOs\\SubscriptionCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:46:13.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:46:13.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "SubscriptionReadDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\SubscriptionReadDto.cs",
               "RelativeDocumentMoniker": "DTOs\\SubscriptionReadDto.cs",
@@ -527,12 +528,11 @@
               "RelativeToolTip": "DTOs\\SubscriptionReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:45:53.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:45:53.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ServicePlanUpdateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\ServicePlanUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ServicePlanUpdateDto.cs",
@@ -540,12 +540,11 @@
               "RelativeToolTip": "DTOs\\ServicePlanUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:45:32.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:45:32.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ServicePlanCreateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\ServicePlanCreateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ServicePlanCreateDto.cs",
@@ -553,12 +552,11 @@
               "RelativeToolTip": "DTOs\\ServicePlanCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:45:13.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:45:13.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ServicePlanReadDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\ServicePlanReadDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ServicePlanReadDto.cs",
@@ -566,12 +564,11 @@
               "RelativeToolTip": "DTOs\\ServicePlanReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:44:41.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:44:41.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "CustomerUpdateDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\CustomerUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CustomerUpdateDto.cs",
@@ -579,25 +576,11 @@
               "RelativeToolTip": "DTOs\\CustomerUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:44:15.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:44:15.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CustomerCreateDto.cs",
-              "DocumentMoniker": "D:\\Assignment2\\DTOs\\CustomerCreateDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\CustomerCreateDto.cs",
-              "ToolTip": "D:\\Assignment2\\DTOs\\CustomerCreateDto.cs",
-              "RelativeToolTip": "DTOs\\CustomerCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:43:20.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "CustomerReadDto.cs",
               "DocumentMoniker": "D:\\Assignment2\\DTOs\\CustomerReadDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CustomerReadDto.cs",
@@ -605,12 +588,11 @@
               "RelativeToolTip": "DTOs\\CustomerReadDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T15:42:24.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T15:42:24.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Implementations.cs",
               "DocumentMoniker": "D:\\Assignment2\\Repositories\\Implementations.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementations.cs",
@@ -618,12 +600,11 @@
               "RelativeToolTip": "Repositories\\Implementations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T21:38:42.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T21:38:42.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "IRepositories.cs",
               "DocumentMoniker": "D:\\Assignment2\\Repositories\\IRepositories.cs",
               "RelativeDocumentMoniker": "Repositories\\IRepositories.cs",
@@ -631,12 +612,11 @@
               "RelativeToolTip": "Repositories\\IRepositories.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAmwAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T21:35:22.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T21:35:22.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "ISPContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Assignment2\\Migrations\\ISPContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ISPContextModelSnapshot.cs",
@@ -644,12 +624,11 @@
               "RelativeToolTip": "Migrations\\ISPContextModelSnapshot.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:58:56.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:58:56.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Ticket.cs",
               "DocumentMoniker": "D:\\Assignment2\\Models\\Ticket.cs",
               "RelativeDocumentMoniker": "Models\\Ticket.cs",
@@ -657,12 +636,11 @@
               "RelativeToolTip": "Models\\Ticket.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAywAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:20:06.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:20:06.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "Payment.cs",
               "DocumentMoniker": "D:\\Assignment2\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "Models\\Payment.cs",
@@ -670,12 +648,11 @@
               "RelativeToolTip": "Models\\Payment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:20:58.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:20:58.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Subscription.cs",
               "DocumentMoniker": "D:\\Assignment2\\Models\\Subscription.cs",
               "RelativeDocumentMoniker": "Models\\Subscription.cs",
@@ -683,12 +660,11 @@
               "RelativeToolTip": "Models\\Subscription.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA6wBAAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:19:22.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:19:22.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "ServicePlan.cs",
               "DocumentMoniker": "D:\\Assignment2\\Models\\ServicePlan.cs",
               "RelativeDocumentMoniker": "Models\\ServicePlan.cs",
@@ -696,12 +672,11 @@
               "RelativeToolTip": "Models\\ServicePlan.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:18:53.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:18:53.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Assignment2\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -709,12 +684,11 @@
               "RelativeToolTip": "Models\\Customer.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:18:25.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:18:25.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Bill.cs",
               "DocumentMoniker": "D:\\Assignment2\\Models\\Bill.cs",
               "RelativeDocumentMoniker": "Models\\Bill.cs",
@@ -722,12 +696,11 @@
               "RelativeToolTip": "Models\\Bill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:20:37.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:20:37.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Hardware.cs",
               "DocumentMoniker": "D:\\Assignment2\\Models\\Hardware.cs",
               "RelativeDocumentMoniker": "Models\\Hardware.cs",
@@ -735,12 +708,11 @@
               "RelativeToolTip": "Models\\Hardware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T20:19:44.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:19:44.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Assignment2.csproj",
               "DocumentMoniker": "D:\\Assignment2\\Assignment2.csproj",
               "RelativeDocumentMoniker": "Assignment2.csproj",
@@ -748,8 +720,11 @@
               "RelativeToolTip": "Assignment2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-30T20:18:03.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T20:18:03.969Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             }
           ]
         }

@@ -1,7 +1,10 @@
-﻿namespace Assignment2.DTOs
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Assignment2.DTOs
 {
     public class CustomerCreateDto
     {
+        [Required]
         public string FullName { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
     }

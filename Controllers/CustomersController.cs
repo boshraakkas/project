@@ -5,6 +5,7 @@ using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Serilog;
 
 namespace Assignment2.Controllers
 {
@@ -44,13 +45,21 @@ namespace Assignment2.Controllers
         [HttpPost]
         [Authorize]
         // POST → Token مطلوب
-       
-        public IActionResult Create(CustomerCreateDto dto)
+
+        public async Task<IActionResult> CreateCustomer(CustomerCreateDto dto)
         {
-            var customer = _mapper.Map<Customer>(dto);
-            _context.Customers.Add(customer);
-            _context.SaveChanges();
-            return Ok(_mapper.Map<CustomerReadDto>(customer));
+            try
+            {
+                var customer = _mapper.Map<Customer>(dto);
+                _context.Customers.Add(customer);
+                await _context.SaveChangesAsync();
+                return Ok(_mapper.Map<CustomerReadDto>(customer));
+            }
+            catch (Exception ex)
+            {
+                Log.Error(ex, "Error while creating customer");
+                return StatusCode(500, "Internal server error");
+            }
         }
 
         // PUT: api/customers/5

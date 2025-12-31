@@ -27,7 +27,7 @@
   },
   {
     "ContainingType": "Assignment2.Controllers.CustomersController",
-    "Method": "Create",
+    "Method": "CreateCustomer",
     "RelativePath": "api/customers",
     "HttpMethod": "POST",
     "IsController": true,
